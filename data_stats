@@ -1,0 +1,99 @@
+{
+ "metadata": {
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.8.5-final"
+  },
+  "orig_nbformat": 2,
+  "kernelspec": {
+   "name": "python3",
+   "display_name": "Python 3",
+   "language": "python"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2,
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "execute_result",
+     "data": {
+      "text/plain": [
+       "       id first_name last_name                       email  gender  app_name\n",
+       "0       1    Sharona   Scarlon  sscarlon0@seattletimes.com  Female  Aerified\n",
+       "1       2   Immanuel  Hustings        ihustings1@vimeo.com    Male    Vagram\n",
+       "2       3     Willem     Stead           wstead2@hexun.com    Male  Tres-Zap\n",
+       "3       4     Justis     Hapke          jhapke3@jalbum.net    Male   Sonsing\n",
+       "4       5         Cy   McQuaid       cmcquaid4@arizona.edu    Male      Rank\n",
+       "..    ...        ...       ...                         ...     ...       ...\n",
+       "995   996     Morgen   Davidov      mdavidovrn@behance.net    Male   Sonsing\n",
+       "996   997       Lory  Vidyapin       lvidyapinro@cisco.com  Female   Andalax\n",
+       "997   998   Ebeneser     Crady         ecradyrp@discuz.net    Male    Vagram\n",
+       "998   999   Vittoria    Daniau        vdaniaurq@sfgate.com  Female   Sonsing\n",
+       "999  1000     Tressa   Keiling     tkeilingrr@marriott.com  Female   Sonsing\n",
+       "\n",
+       "[1000 rows x 6 columns]"
+      ],
+      "text/html": "<div>\n<style scoped>\n    .dataframe tbody tr th:only-of-type {\n        vertical-align: middle;\n    }\n\n    .dataframe tbody tr th {\n        vertical-align: top;\n    }\n\n    .dataframe thead th {\n        text-align: right;\n    }\n</style>\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>id</th>\n      <th>first_name</th>\n      <th>last_name</th>\n      <th>email</th>\n      <th>gender</th>\n      <th>app_name</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>1</td>\n      <td>Sharona</td>\n      <td>Scarlon</td>\n      <td>sscarlon0@seattletimes.com</td>\n      <td>Female</td>\n      <td>Aerified</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>2</td>\n      <td>Immanuel</td>\n      <td>Hustings</td>\n      <td>ihustings1@vimeo.com</td>\n      <td>Male</td>\n      <td>Vagram</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>3</td>\n      <td>Willem</td>\n      <td>Stead</td>\n      <td>wstead2@hexun.com</td>\n      <td>Male</td>\n      <td>Tres-Zap</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>4</td>\n      <td>Justis</td>\n      <td>Hapke</td>\n      <td>jhapke3@jalbum.net</td>\n      <td>Male</td>\n      <td>Sonsing</td>\n    </tr>\n    <tr>\n      <th>4</th>\n      <td>5</td>\n      <td>Cy</td>\n      <td>McQuaid</td>\n      <td>cmcquaid4@arizona.edu</td>\n      <td>Male</td>\n      <td>Rank</td>\n    </tr>\n    <tr>\n      <th>...</th>\n      <td>...</td>\n      <td>...</td>\n      <td>...</td>\n      <td>...</td>\n      <td>...</td>\n      <td>...</td>\n    </tr>\n    <tr>\n      <th>995</th>\n      <td>996</td>\n      <td>Morgen</td>\n      <td>Davidov</td>\n      <td>mdavidovrn@behance.net</td>\n      <td>Male</td>\n      <td>Sonsing</td>\n    </tr>\n    <tr>\n      <th>996</th>\n      <td>997</td>\n      <td>Lory</td>\n      <td>Vidyapin</td>\n      <td>lvidyapinro@cisco.com</td>\n      <td>Female</td>\n      <td>Andalax</td>\n    </tr>\n    <tr>\n      <th>997</th>\n      <td>998</td>\n      <td>Ebeneser</td>\n      <td>Crady</td>\n      <td>ecradyrp@discuz.net</td>\n      <td>Male</td>\n      <td>Vagram</td>\n    </tr>\n    <tr>\n      <th>998</th>\n      <td>999</td>\n      <td>Vittoria</td>\n      <td>Daniau</td>\n      <td>vdaniaurq@sfgate.com</td>\n      <td>Female</td>\n      <td>Sonsing</td>\n    </tr>\n    <tr>\n      <th>999</th>\n      <td>1000</td>\n      <td>Tressa</td>\n      <td>Keiling</td>\n      <td>tkeilingrr@marriott.com</td>\n      <td>Female</td>\n      <td>Sonsing</td>\n    </tr>\n  </tbody>\n</table>\n<p>1000 rows × 6 columns</p>\n</div>"
+     },
+     "metadata": {},
+     "execution_count": 1
+    }
+   ],
+   "source": [
+    "import numpy as np  \n",
+    "import pandas as pd \n",
+    "df=pd.read_csv('/home/ullu/Documents/usersDATAsample.csv', header=0)\n",
+    "df"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "execute_result",
+     "data": {
+      "text/plain": [
+       "                id\n",
+       "count  1000.000000\n",
+       "mean    500.500000\n",
+       "std     288.819436\n",
+       "min       1.000000\n",
+       "25%     250.750000\n",
+       "50%     500.500000\n",
+       "75%     750.250000\n",
+       "max    1000.000000"
+      ],
+      "text/html": "<div>\n<style scoped>\n    .dataframe tbody tr th:only-of-type {\n        vertical-align: middle;\n    }\n\n    .dataframe tbody tr th {\n        vertical-align: top;\n    }\n\n    .dataframe thead th {\n        text-align: right;\n    }\n</style>\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>id</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>count</th>\n      <td>1000.000000</td>\n    </tr>\n    <tr>\n      <th>mean</th>\n      <td>500.500000</td>\n    </tr>\n    <tr>\n      <th>std</th>\n      <td>288.819436</td>\n    </tr>\n    <tr>\n      <th>min</th>\n      <td>1.000000</td>\n    </tr>\n    <tr>\n      <th>25%</th>\n      <td>250.750000</td>\n    </tr>\n    <tr>\n      <th>50%</th>\n      <td>500.500000</td>\n    </tr>\n    <tr>\n      <th>75%</th>\n      <td>750.250000</td>\n    </tr>\n    <tr>\n      <th>max</th>\n      <td>1000.000000</td>\n    </tr>\n  </tbody>\n</table>\n</div>"
+     },
+     "metadata": {},
+     "execution_count": 3
+    }
+   ],
+   "source": [
+    "df.describe()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ]
+}
