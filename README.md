@@ -1,4 +1,4 @@
 #analiza statystyczna 
 #Jupyter notebook <support VS code>
-![jupyter](jupyter.png)
+![jupyter](jupyter_note.png)
 #Pandas Numpy MatplotLib ...
