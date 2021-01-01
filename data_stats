@@ -90,6 +90,39 @@
   },
   {
    "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "execute_result",
+     "data": {
+      "text/plain": [
+       "<bound method NDFrame.tail of        id first_name last_name                       email  gender  app_name\n",
+       "0       1    Sharona   Scarlon  sscarlon0@seattletimes.com  Female  Aerified\n",
+       "1       2   Immanuel  Hustings        ihustings1@vimeo.com    Male    Vagram\n",
+       "2       3     Willem     Stead           wstead2@hexun.com    Male  Tres-Zap\n",
+       "3       4     Justis     Hapke          jhapke3@jalbum.net    Male   Sonsing\n",
+       "4       5         Cy   McQuaid       cmcquaid4@arizona.edu    Male      Rank\n",
+       "..    ...        ...       ...                         ...     ...       ...\n",
+       "995   996     Morgen   Davidov      mdavidovrn@behance.net    Male   Sonsing\n",
+       "996   997       Lory  Vidyapin       lvidyapinro@cisco.com  Female   Andalax\n",
+       "997   998   Ebeneser     Crady         ecradyrp@discuz.net    Male    Vagram\n",
+       "998   999   Vittoria    Daniau        vdaniaurq@sfgate.com  Female   Sonsing\n",
+       "999  1000     Tressa   Keiling     tkeilingrr@marriott.com  Female   Sonsing\n",
+       "\n",
+       "[1000 rows x 6 columns]>"
+      ]
+     },
+     "metadata": {},
+     "execution_count": 4
+    }
+   ],
+   "source": [
+    "df.tail"
+   ]
+  },
+  {
+   "cell_type": "code",
    "execution_count": null,
    "metadata": {},
    "outputs": [],
