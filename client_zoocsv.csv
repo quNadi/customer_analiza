@@ -1,0 +1,501 @@
+id,first_name,last_name,location,cat,dog,other,order,company_order,frequency
+1,Ellissa,Snoddy,Czech Republic,false,false,true,"€990,68",Colgate-Palmolive Company,year
+2,Noak,De Ambrosi,Poland,,,,,,quarter
+3,Marlo,Derham,Poland,true,true,true,"€32,01",TOP CARE (Topco Associates LLC),week
+4,Carroll,Clarke-Williams,Czech Republic,false,true,true,"€243,15",Teva Pharmaceuticals USA Inc,week
+5,Joy,Camden,Poland,false,true,true,"€149,16",Eli Lilly and Company,week
+6,Kippy,Targett,,false,true,true,"€179,04",BluePoint Laboratories,year
+7,Svend,List,,false,true,false,"€643,93",Ranbaxy Pharmaceuticals Inc.,year
+8,Gaultiero,Southcombe,,true,false,true,"€324,88",Walgreen Co.,year
+9,Jonah,MacAscaidh,,true,false,false,"€790,12","Physicians Total Care, Inc.",month
+10,Isahella,Bingall,Czech Republic,false,true,false,"€295,29",Dolgencorp Inc,month
+11,Alene,Paoletti,Poland,true,true,false,"€229,64",Lake Erie Medical DBA Quality Care Products LLC,week
+12,Jethro,Burnage,Germany,false,true,true,"€54,91",AvPAK,year
+13,Claudelle,Marciskewski,,false,true,false,"€204,26",Exelan Pharmaceuticals Inc.,week
+14,Raynell,Smale,,true,false,true,"€119,88",Apotheca Company,quarter
+15,Camel,Muehler,Poland,true,false,true,"€294,29",Rimmel Inc.,
+16,Gradeigh,Jarvis,,,,,,,month
+17,Jobye,Ingledow,Czech Republic,false,true,false,"€750,24","Roxane Laboratories, Inc",week
+18,Ed,Garshore,,true,true,true,"€232,73","Nelco Laboratories, Inc.",week
+19,Delia,Latehouse,,false,true,false,"€98,76","VALUE MERCHANDISERS COMPANY, INC.",month
+20,Karlis,Kosiada,Poland,false,true,false,"€581,30",REMEDYREPACK INC.,year
+21,Artur,Calyton,,false,false,true,"€763,21",NARS COSMETICS,year
+22,Elizabet,Barajas,,false,false,true,"€391,90","Dispensing Solutions, Inc.",week
+23,Lenna,Lathy,Poland,false,true,false,"€11,90","Ventura Corporation (San Juan, P.R)",quarter
+24,Lucia,Rottger,Poland,false,false,true,"€206,98",Remedy Makers,month
+25,Silas,Haglinton,Poland,true,false,true,"€688,78","Nelco Laboratories, Inc.",month
+26,Bernadine,Sydenham,Czech Republic,false,true,true,"€412,68",Kosan Kozmetik Sanayi ve Ticaret A.S.,quarter
+27,Meggy,Grunson,,false,false,false,"€297,00",REMEDYREPACK INC.,quarter
+28,Cobby,Strongman,Poland,false,false,false,"€502,42",Mylan Pharmaceuticals Inc.,year
+29,Donia,Stanyon,Poland,,,,,,quarter
+30,Oliver,Curless,Poland,false,false,false,"€506,61","Deseret Biologicals, Inc.",year
+31,Sayre,Jacquet,Poland,false,true,false,"€748,00",Lake Erie Medical DBA Quality Care Products LLC,month
+32,Wilburt,Mehew,Poland,false,true,false,"€610,17",McKesson Contract Packaging,year
+33,Irvine,Riche,,true,false,false,"€886,72",Amerisource Bergen,year
+34,Arnoldo,Ingarfield,Poland,false,true,true,"€882,91",Northwind Pharmaceuticals,year
+35,Josi,Yard,Czech Republic,true,true,false,"€312,29",NATURALRX LLC,week
+36,Clywd,Crawshaw,Poland,false,true,true,"€269,12",Proficient Rx LP,week
+37,Ellwood,Straniero,Germany,false,true,true,"€103,62",S+,year
+38,Gilberte,Lesslie,Czech Republic,true,true,true,"€957,78","Deseret Biologicals, Inc.",quarter
+39,Lester,Sparham,Poland,,,,,,week
+40,Cortney,Averill,Poland,false,false,false,"€263,30",Greenstone LLC,week
+41,Lacey,Waggatt,Poland,true,false,true,"€132,22",REMEDYREPACK INC.,year
+42,Retha,Hartington,,,,,,,month
+43,Linn,Pittaway,Poland,true,true,false,"€635,92","Native Remedies, LLC",month
+44,Quintus,Reynish,,false,false,false,"€834,87","YIWU HAODING MEDICAL CO.,LTD",month
+45,Clim,Philpotts,Czech Republic,false,false,false,"€475,64","Amneal Pharmaceuticals, LLC",week
+46,Yelena,Attiwill,,true,true,true,"€4,15",Cardinal Health,quarter
+47,Gardiner,Blemen,,true,false,false,"€573,53",Peachtree Medical,week
+48,Evangeline,Danielis,Czech Republic,false,true,false,"€520,57","Taro Pharmaceuticals U.S.A., Inc.",week
+49,Boote,Becarra,Poland,true,false,true,"€16,10",Aidarex Pharmaceuticals LLC,month
+50,Stevie,Earey,Poland,false,false,false,"€68,75","SJ Creations, Inc.",year
+51,Britt,Aitken,,false,false,true,"€853,74","Nelco Laboratories, Inc.",week
+52,Geoffrey,Sorro,Poland,true,false,false,"€248,42",REMEDYREPACK INC.,year
+53,Aileen,Doolan,Poland,false,false,true,"€117,26","PD-Rx Pharmaceuticals, Inc.",quarter
+54,Ophelia,Elner,Czech Republic,true,true,true,"€154,78","Liberty Pharmaceuticals, Inc.",week
+55,Nicolas,Trevillion,,false,true,true,"€522,78",U.S. Pharmaceuticals,quarter
+56,Rosemarie,Halls,Czech Republic,true,true,false,"€393,77","Newton Laboratories, Inc.",month
+57,Millisent,Mervyn,,true,false,false,"€879,95",Eli Lilly and Company,quarter
+58,Marney,Boutwell,Poland,true,true,true,"€559,87",Greenstone LLC,quarter
+59,Madella,Sargant,,true,true,true,"€572,08","Carver Korea Co.,Ltd",quarter
+60,Granny,Cristofari,Poland,true,true,false,"€750,21",Uriel Pharmacy Inc.,month
+61,Matteo,Boatright,,false,false,false,"€299,54",Sanum Kehlbeck GmbH & Co. KG,year
+62,Shelby,Guerrazzi,Poland,true,false,false,"€451,59",Chain Drug Marketing Association,month
+63,Delcina,Wakerley,Poland,false,true,true,"€201,08",REMEDYREPACK INC.,week
+64,Gizela,Radmer,Poland,true,false,false,"€6,26",Lake Erie Medical DBA Quality Care Products LLC,quarter
+65,Trudy,Dixey,Poland,true,true,false,"€724,88",Cobalt Laboratories,week
+66,Ada,Salvage,,true,true,true,"€478,32","Liddell Laboratories, Inc.",month
+67,Jaquelyn,Danbye,Czech Republic,false,false,false,"€952,71",Heritage Pharmaceuticals Inc.,month
+68,Yurik,Massingham,Poland,false,false,false,"€197,72",AvPAK,quarter
+69,Pauly,Diviny,Poland,true,false,false,"€130,33",Guerlain S.A.,week
+70,Lucille,Moreing,Poland,true,false,false,"€473,03","TAYLOR JAMES, LTD.",year
+71,Tanney,McVitty,Poland,,,,,,quarter
+72,Karen,Skegg,Czech Republic,true,false,true,"€988,72",HOMEOLAB USA INC,
+73,Karlie,Shoppee,Czech Republic,true,true,true,"€675,59",FAMILY DOLLAR,quarter
+74,Ilene,Monkeman,Poland,false,true,true,"€537,68",Ventura Corporation LTD,month
+75,Laetitia,Inman,,false,false,true,"€974,60","Newton Laboratories, Inc.",month
+76,Berty,Boow,Poland,true,false,true,"€158,76",Publix Super Markets Inc,month
+77,Tabby,Devall,,,,,,,year
+78,Staford,Klambt,,false,false,true,"€926,09","Nelco Laboratories, Inc.",week
+79,Conrad,Habeshaw,Germany,false,false,true,"€651,38","Taizhou Runkang Medical Products Co.,Ltd.",week
+80,Yul,Patridge,,true,true,false,"€242,07",American Health Packaging,week
+81,Astrix,Casella,,true,false,true,"€741,43",State of Florida DOH Central Pharmacy,quarter
+82,Caddric,Hise,Poland,false,false,false,"€338,97",Medline Industries Inc.,week
+83,Wilma,Dart,Poland,false,false,false,"€651,53",Ferring Pharmaceuticals Inc.,month
+84,Franky,Jopp,,true,true,false,"€340,44",Uriel Pharmacy Inc.,quarter
+85,Ambur,MacKonochie,,true,true,true,"€313,91",CVS PHARMACY,quarter
+86,Karee,Sealey,,true,false,true,"€675,74",Lake Erie Medical DBA Quality Care Products LLC,week
+87,Giustino,Josskoviz,Czech Republic,true,false,false,"€880,11","Antigen Laboratories, Inc.",month
+88,Mord,Blandamere,Poland,,,,,,year
+89,Wolf,Shelborne,Poland,false,false,true,"€187,82","Deb USA, Inc.",week
+90,Hamil,Pennells,Czech Republic,false,false,false,"€378,40","Great Lakes Wholesale & Marketing, LLC",year
+91,Chrysa,Hayler,Czech Republic,,,,,,week
+92,Lydie,Chrestien,Czech Republic,false,true,true,"€735,43",Haemonetics Corporation,year
+93,Garland,Kleinlerer,,true,true,false,"€705,17",Reckitt Benckiser LLC,year
+94,Kristi,Ipgrave,Czech Republic,,,,,,quarter
+95,Karalynn,Gately,Poland,,,,,,month
+96,Alyson,Shackesby,Czech Republic,false,false,true,"€852,91","DAVA Pharmaceuticals, Inc.",week
+97,Marchelle,Ramsell,Poland,false,false,true,"€114,39","Nephro-Tech, Inc.",week
+98,Edie,Plessing,Poland,false,true,true,"€555,60","Unichem Pharmaceuticals (USA), Inc.",week
+99,Pauly,Juara,Poland,true,true,false,"€35,58","Santarus, Inc.",year
+100,Consuelo,Hambric,Poland,true,false,true,"€296,18",KAS Direct LLC dba BabyGanics,week
+101,Bernice,Symcox,,false,false,false,"€618,55",RedPharm Drug Inc.,year
+102,Tannie,Tydd,Poland,true,true,true,"€559,80","Hospira, Inc.",week
+103,Hyacinthe,Benard,,,,,,,quarter
+104,Jedidiah,Ahrenius,,true,true,false,"€126,91","Morton Grove Pharmaceuticals, Inc.",quarter
+105,Caro,Zink,Poland,false,false,false,"€277,94",McKesson,quarter
+106,Nance,Pierrepoint,Poland,false,true,true,"€106,82",LUPIN LIMITED,year
+107,Hallsy,Herreros,Czech Republic,true,false,true,"€955,58","OCuSOFT, INC.",year
+108,Morlee,Abella,Poland,false,false,false,"€126,50","Tom's of Maine, Inc.",quarter
+109,Banky,Pycock,Poland,false,true,true,"€979,97",Insight Pharmaceuticals,week
+110,Jeanine,Millbank,,true,true,false,"€396,71","Scott Holdings Co., Ltd.",week
+111,Stafani,Skayman,Czech Republic,false,false,true,"€720,08","Antigen Laboratories, Inc.",week
+112,Judi,Paff,,true,false,false,"€510,95","Newton Laboratories, Inc.",quarter
+113,Jsandye,Whiterod,Austria,,,,,,month
+114,Christen,Skelhorne,Poland,true,false,false,"€770,59","Sato Pharmaceutical Co., Ltd.",quarter
+115,Corene,Barritt,Poland,false,true,true,"€246,62",Family Dollar (FAMILY WELLNESS),year
+116,Catlin,Hintzer,,,,,,,quarter
+117,Leena,Haffenden,Poland,false,true,true,"€384,46","Physicians Total Care, Inc.",month
+118,Lewiss,Burnell,Czech Republic,true,true,true,"€285,89",Cardinal Health,week
+119,Louise,Kinleyside,Poland,false,false,true,"€329,01",NARS Cosmetics,
+120,Dion,Brumfield,Czech Republic,false,false,true,"€832,05",REMEDYREPACK INC.,month
+121,Taylor,Furphy,Poland,false,true,false,"€996,03","Fresenius Kabi USA, LLC",month
+122,Keene,Yarker,,true,false,true,"€85,68",Apotheca Company,year
+123,Torrance,Rebert,Poland,false,true,true,"€391,16","PharmaDerm, A division of Nycomed US Inc.",month
+124,Laurel,Uttridge,Poland,true,false,true,"€953,84",Boots Retail USA Inc,year
+125,Palmer,Manntschke,Czech Republic,true,false,false,"€816,04","Nelco Laboratories, Inc.",quarter
+126,Trudey,Tommasetti,Poland,true,false,false,"€311,33",Aztex Enterprises,month
+127,Charla,Fishley,,false,false,true,"€716,86","Chattem, Inc.",week
+128,Petronia,Gilphillan,,true,false,true,"€784,56","Actavis Pharma, Inc.",
+129,Fifi,Skett,Poland,false,false,true,"€385,62","Nelco Laboratories, Inc.",month
+130,Paolo,Kynton,Czech Republic,true,false,true,"€50,88",CHANEL PARFUMS BEAUTE,month
+131,Jeannie,Strothers,,,,,,,quarter
+132,Lu,Manna,,true,false,true,"€499,41",Wal-Mart Stores Inc,month
+133,Aldon,Durn,,true,false,false,"€674,08",Good Neighbor Pharmacy,quarter
+134,Timi,Rand,Poland,false,false,false,"€651,29",West-ward Pharmaceutical Corp.,quarter
+135,Tadeo,Laetham,Czech Republic,false,false,true,"€968,71","Wal-Mart Stores, Inc",month
+136,Nolan,Grundell,,false,true,false,"€424,33",Novartis Pharmaceuticals Corporation,quarter
+137,Penni,Dennitts,Czech Republic,false,true,false,"€93,11","Allergy Laboratories, Inc.",quarter
+138,Cristin,Graeser,,true,false,true,"€88,25",Paramesh Banerji Life Sciences LLC,month
+139,Katharyn,Bourchier,Poland,false,true,false,"€15,37",Rebel Distributors Corp,quarter
+140,Cherri,Fairchild,Poland,true,true,false,"€244,52",Pfizer Laboratories Div Pfizer Inc,quarter
+141,Daryle,Henrot,,true,true,false,"€282,70","Kutol Products Company, Inc.",quarter
+142,Tedda,McLeary,,true,false,true,"€722,78",Dr. Reddy's Laboratories Limited,quarter
+143,Ellis,Sowerby,Czech Republic,true,false,true,"€386,14","Dispensing Solutions, Inc.",year
+144,Shauna,Kanzler,,true,false,false,"€358,46","Bolero Home Decor, Inc.",quarter
+145,Chrissy,Vigus,Czech Republic,false,false,true,"€577,08",Ningbo United Group Import and Export Co. Ltd.,
+146,Berget,Melonby,,true,true,false,"€347,27","Ningbo Pulisi Daily Chemical Products Co., Ltd.",month
+147,Hildagard,Dirkin,,true,true,true,"€341,21",Sun Pharmaceutical Industries Limited,year
+148,Kristopher,Sadler,,true,true,true,"€77,25","H and P Industries, Inc. dba Triad Group",week
+149,Ramsey,Mollin,Poland,true,true,false,"€570,94","Stratus Pharmaceuticals, Inc",month
+150,Hymie,Kohen,Czech Republic,true,false,false,"€820,49","Antigen Laboratories, Inc.",month
+151,Debora,Lindemann,Germany,true,true,true,"€560,89",Ranbaxy Pharmaceuticals Inc.,week
+152,Evanne,Matashkin,Czech Republic,false,false,false,"€915,72",7-Eleven,year
+153,Son,Goundsy,Poland,false,true,true,"€130,37",Ole Henriksen,quarter
+154,Waylen,Naismith,Czech Republic,false,false,true,"€228,37",Heritage Pharmaceuticals Inc.,week
+155,Cam,Hadgkiss,Czech Republic,false,false,false,"€909,85",Energetix Corp,week
+156,Carmencita,Kalkofen,Poland,false,false,false,"€67,72","PD-Rx Pharmaceuticals, Inc.",quarter
+157,Corabella,Mecchi,,false,false,false,"€914,71","Sage Products, Inc.",year
+158,Rolf,Rheaume,,false,true,true,"€590,42",Novartis Pharmaceuticals Corporation,year
+159,Margaretha,Hansell,Germany,true,true,false,"€824,80",Major Pharmaceuticals,year
+160,Lenci,Betteson,Poland,false,true,true,"€496,87",Apotheca Company,quarter
+161,Phillipp,Cade,Poland,false,false,false,"€926,54",Chemco Corporation,year
+162,Isadora,Talks,Poland,false,true,false,"€371,18",CleanWell,quarter
+163,Carey,Dadswell,Poland,true,true,false,"€129,01",STAT Rx USA LLC,year
+164,Mariejeanne,Humbie,,false,true,true,"€786,80","NCS HealthCare of KY, Inc dba Vangard Labs",month
+165,Torrence,Hammill,,true,false,true,"€901,87",Mallinckrodt Inc.,month
+166,Caroline,Feake,Czech Republic,true,true,true,"€149,75","Watson Pharma, Inc.",year
+167,Web,Zaniolini,Germany,false,true,false,"€376,07",GlaxoSmithKline Consumer Healthcare LP,month
+168,Barbi,MacDiarmid,Poland,false,false,true,"€55,16","Nelco Laboratories, Inc.",year
+169,Pansy,Chasle,Czech Republic,true,true,false,"€51,67","H.J. Harkins Company, Inc.",month
+170,Zorana,Bulpitt,Poland,false,true,true,"€945,00",Freds Inc,week
+171,Clementia,Caveney,Czech Republic,false,true,true,"€271,39","Par Pharmaceutical, Inc.",quarter
+172,Faber,Selwyn,,false,true,true,"€110,76","Nelco Laboratories, Inc.",quarter
+173,Darda,Bromehed,,false,true,false,"€20,75",St Marys Medical Park Pharmacy,month
+174,Novelia,Kuhle,,true,true,false,"€79,80","Triax Pharmaceuticals, LLC",month
+175,Antoine,Paramore,,true,false,false,"€991,18",SHISEIDO AMERICA INC.,month
+176,Perrine,Lambrook,Poland,,,,,,year
+177,Lenette,Rowena,Poland,true,true,true,"€20,38",REMEDYREPACK INC.,year
+178,Arden,Ennion,,false,false,false,"€610,79",Meijer Distribution Inc,month
+179,Leonie,Hinge,Poland,true,true,true,"€285,85","Preferred Pharmaceuticals, Inc",quarter
+180,Desiri,Levison,,true,true,true,"€518,77",TYA Pharmaceuticals,year
+181,Elene,Bondar,Poland,false,false,true,"€349,99","Antigen Laboratories, Inc.",year
+182,Alia,Dohrmann,Poland,true,false,true,"€78,48",Apotheca Company,year
+183,Sherline,MacShane,,false,false,false,"€564,00",Siscom de Argentina S.A.,week
+184,Angel,Whitesel,Czech Republic,false,false,true,"€653,76",U.S. Pharmaceuticals,month
+185,Minda,Richings,Poland,true,true,false,"€946,94","Nature's Way Products, Inc.",quarter
+186,Mead,Hymans,Poland,false,false,true,"€268,40",Ebewe Parenta Pharmaceuticals Inc,week
+187,Marjy,Kiljan,Poland,false,false,true,"€948,35",Cardinal Health,month
+188,Barri,Churchman,Poland,false,true,true,"€986,65",Hy-Vee,week
+189,Imojean,Isacsson,Czech Republic,false,false,false,"€980,04",Prasco Laboratories,month
+190,Kelvin,Licas,Poland,false,false,true,"€226,34",Uriel Pharmacy Inc.,year
+191,Cull,Phelipeau,,false,false,false,"€646,99","Aphena Pharma Solutions - Tennessee, LLC",week
+192,Hiram,Prahm,,true,false,true,"€279,18",CORIA LABORATORIES,month
+193,Jefferey,Reddoch,Czech Republic,,,,,,quarter
+194,Keane,Gransden,Poland,true,true,true,"€32,15",Forces of Nature,quarter
+195,Aileen,Bothram,Czech Republic,true,false,false,"€138,77",Merck Sharp & Dohme Corp.,quarter
+196,Jim,Island,Poland,true,true,false,"€338,34",AuroMedics Pharma LLC,year
+197,Amalia,Service,Poland,false,true,false,"€198,55","The Yeon Co., Ltd.",month
+198,Alford,Riggeard,Poland,true,true,false,"€765,31","Global Pharmaceuticals, Division of Impax Laboratories Inc.",quarter
+199,Cacilia,Cino,Poland,false,true,false,"€798,18","Upsher-Smith Laboratories, Inc.",quarter
+200,Toby,Ciccottini,Poland,true,false,false,"€710,49",Cardinal Health,week
+201,Rosina,Skellon,Czech Republic,false,true,true,"€540,77",Kmart Corporation,week
+202,Cass,Soughton,Poland,true,true,true,"€735,44",Teva Pharmaceuticals USA Inc,quarter
+203,Bea,Tungate,,false,true,false,"€240,01",Merck Sharp & Dohme Corp.,quarter
+204,Dion,Burder,,false,false,true,"€717,26",Apotex Corp.,week
+205,Ellie,Sorel,,true,false,false,"€356,34",Mylan Pharmaceuticals Inc.,year
+206,Sella,Dumini,Poland,false,true,false,"€571,87",Remedy Makers,quarter
+207,Juieta,Raye,,false,true,false,"€887,32",PharmaDerm a division of Fougera Pharmaceuticals Inc.,quarter
+208,Ola,Gaymer,Poland,false,false,false,"€717,48",Sagent Pharmaceuticals,month
+209,Spence,Caudwell,Czech Republic,true,false,true,"€341,92","Boehringer Ingelheim Pharmaceuticals, Inc.",year
+210,Carline,Rolph,Poland,false,true,true,"€339,73","Xttrium Laboratories, Inc.",week
+211,Cindy,Ainscough,Poland,true,true,false,"€160,71",Premier Medical Corporation,month
+212,Darb,Altofts,Czech Republic,true,false,false,"€143,28",ESTEE LAUDER INC,year
+213,Francois,Meert,Poland,true,true,false,"€26,13",BluePoint Laboratories,month
+214,Stanly,Lindenberg,Czech Republic,false,false,true,"€461,08",Ross Healthcare Inc.,week
+215,Milena,Cella,,false,true,false,"€32,78",Dr. Reddys Laboratories Limited,week
+216,Joby,Officer,Poland,false,true,true,"€756,87",Cardinal Health,week
+217,Emmaline,Handling,Germany,false,false,false,"€5,87",Bryant Ranch Prepack,week
+218,Barbabra,Bonn,Poland,false,true,true,"€295,16",Parfums Christian Dior,week
+219,Bethany,McNerlin,Czech Republic,false,false,false,"€809,62",Laboratoires M&L,month
+220,Kaylyn,Gooden,Czech Republic,false,true,true,"€82,93","Allergy Laboratories, Inc.",month
+221,Jillane,Grayne,Czech Republic,true,false,true,"€483,73","Aptalis Pharma US, Inc.",year
+222,Del,Jerwood,Poland,true,true,true,"€553,78",American Red Cross,quarter
+223,Noach,Woakes,,false,true,true,"€301,80","Allermed Laboratories, Inc.",quarter
+224,Barbabra,Kybbye,Czech Republic,false,true,true,"€323,01","L.N.K. International, Inc.",month
+225,Ernesta,Enders,Czech Republic,false,true,true,"€657,45","Western Family Foods, Inc.",year
+226,Huntlee,Surgener,Germany,true,false,true,"€450,45","Nelco Laboratories, Inc.",week
+227,Stan,Rutgers,Czech Republic,,,,,,
+228,Dannye,Sisland,Poland,false,true,true,"€675,25","Dispensing Solutions, Inc.",week
+229,Izaak,Tunstall,Czech Republic,true,true,true,"€393,68","Watson Laboratories, Inc.",quarter
+230,Joletta,Hardwell,,true,false,false,"€454,01",WALGREEN CO.,year
+231,Brien,Libero,Poland,true,false,false,"€562,46",Rebel Distributors Corp,week
+232,Chloe,Obispo,,false,false,true,"€342,61",Wisconsin Pharmacal Company,year
+233,Dell,Jeves,,,,,,,week
+234,Noam,Pountney,Poland,false,false,true,"€230,21","KVK-TECH,INC",month
+235,Corrie,Hollebon,Czech Republic,true,true,false,"€384,83","Preferred Pharmaceuticals, Inc.",year
+236,Euell,Capin,Poland,false,false,true,"€264,10","Taro Pharmaceuticals U.S.A., Inc.",week
+237,Kara,Foran,Poland,,,,,,
+238,Vanni,Bodemeaid,Czech Republic,false,false,false,"€469,87",Meijer Distribution Inc,year
+239,Jayne,Baldry,Czech Republic,true,true,false,"€745,53",GUARDIAN DRUG COMPANY,week
+240,Claresta,Wingfield,Poland,false,false,false,"€121,11",Wockhardt Limited,quarter
+241,Hermie,Glayzer,,true,true,false,"€725,24",Eli Lilly and Company,week
+242,Vitoria,Portsmouth,Czech Republic,true,false,true,"€358,17",Jubilant HollisterStier LLC,year
+243,Korey,Gwinnel,Poland,true,true,true,"€635,43",Mylan Institutional Inc.,quarter
+244,Noelle,Lailey,Poland,true,true,false,"€362,38","Physicians Total Care, Inc.",quarter
+245,Andreas,Longforth,,true,true,false,"€59,67","PD-Rx Pharmaceuticals, Inc.",week
+246,Alf,Barbary,Poland,true,false,true,"€598,31",LVMH Fragrance Brands,year
+247,Barby,Dewan,Poland,true,false,true,"€36,87","Matrixx Initiatives, Inc.",month
+248,Nadya,Ebbs,Poland,true,true,false,"€972,26",Secan Pharmaceuticals Inc,week
+249,Isak,Mitten,Austria,false,true,false,"€916,51","Nelco Laboratories, Inc.",month
+250,Yancey,Van der Hoven,,true,false,false,"€718,36","C.A Pharm Co., Ltd.",year
+251,Tiler,Westfalen,,false,true,true,"€416,60",St Marys Medical Park Pharmacy,year
+252,Dietrich,Wheble,,true,false,false,"€269,31",Unit Dose Services,month
+253,Julietta,Forkan,Poland,,,,,,week
+254,Jared,Baudacci,,false,false,true,"€99,12",REMEDYREPACK INC.,year
+255,Niven,Horsell,Poland,,,,,,week
+256,Maitilde,Tixier,Poland,true,false,true,"€474,85",WALGREEN CO.,quarter
+257,Eduard,Slimmon,Poland,true,false,true,"€113,47","General Injectables & Vaccines, Inc",
+258,Dyna,Dericot,Czech Republic,false,false,true,"€547,48",Aurobindo Pharma Limited,week
+259,Jennette,Aizlewood,Poland,true,false,false,"€83,53",Boots Retail USA Inc,week
+260,Alex,Kilcoyne,,false,false,true,"€117,18",Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC,month
+261,Agneta,Tibbs,Poland,false,false,true,"€757,89","Prime Enterprises, Inc.",year
+262,Ursala,Leitch,,false,true,true,"€192,06",Neutrogena Corporation,quarter
+263,Aguie,Lowbridge,Poland,false,true,false,"€485,78",Heritage,quarter
+264,Janifer,Brouncker,,true,false,false,"€489,35","Nelco Laboratories, Inc.",week
+265,Clim,Frankcombe,Poland,true,false,true,"€881,02",Clinical Solutions Wholesale,year
+266,Serene,Aldous,Poland,true,false,true,"€343,26",REMEDYREPACK INC.,year
+267,Avram,Smy,Poland,true,true,true,"€990,85",Barr Laboratories Inc.,week
+268,Kenton,Connolly,Poland,false,true,false,"€743,90","The Hain Celestial Group, Inc.",week
+269,Remy,Gilleson,Poland,true,false,false,"€49,82",NorMed,quarter
+270,Zack,Swafford,Czech Republic,true,true,false,"€517,77",REMEDYREPACK INC.,month
+271,Shaun,Brabban,Poland,false,true,false,"€128,72",A-S Medication Solutions LLC,week
+272,Beauregard,Manoelli,,true,true,false,"€780,86",Seton Pharmaceuticals,quarter
+273,Ramonda,Muino,Poland,true,true,false,"€63,55",Teva Pharmaceuticals USA Inc,quarter
+274,Garner,McCloughlin,Poland,false,true,true,"€493,51",REMEDYREPACK INC.,month
+275,Renae,Shew,Poland,true,false,false,"€966,84",Compressed Gas Solutions Inc,week
+276,Sebastien,Moyer,Poland,false,true,false,"€547,47",L. Perrigo Company,month
+277,Derk,Ferreiro,Czech Republic,true,false,true,"€362,43","Hospira, Inc.",week
+278,Wye,Olligan,Poland,false,false,false,"€796,14","Nelco Laboratories, Inc.",month
+279,Erinna,Triggle,Poland,false,false,true,"€925,26","Physicians Total Care, Inc.",month
+280,Dillie,Oliffe,Poland,,,,,,month
+281,Felita,Delepine,Poland,false,false,false,"€630,30","Dispensing Solutions, Inc.",quarter
+282,Felipa,Gelderd,Poland,false,true,true,"€836,22","Nelco Laboratories, Inc.",month
+283,Coral,Heersma,Czech Republic,false,false,true,"€64,56","Taro Pharmaceuticals U.S.A., Inc.",year
+284,Otes,Biaggioli,Poland,true,true,true,"€133,64",Cardinal Health,year
+285,Pippa,Gowdy,Czech Republic,false,false,true,"€640,39",Bobbi Brown Professional Cosmetics Inc.,year
+286,Ealasaid,Cuncarr,,false,true,true,"€68,58","Good Sense (Geiss, Destin & Dunn, Inc.)",year
+287,Kenon,Heersema,Poland,false,false,false,"€200,94",Home Sweet Homeopathics,month
+288,Rachelle,Haselup,,false,true,true,"€750,87",REMEDYREPACK INC.,week
+289,Phillipe,Dorkin,Czech Republic,true,false,false,"€474,63",DZA Brands LLC,month
+290,Sky,Worts,,false,false,true,"€557,17",CareFusion 213 LLC,week
+291,Howie,Packman,Poland,false,true,true,"€174,87",West-Ward Pharmaceutical Corp,month
+292,Henderson,Ebbage,Germany,false,false,true,"€672,58","SHISEIDO CO., LTD.",week
+293,Alverta,Brosini,,true,false,true,"€702,22",Contract Pharmacy Services-PA,quarter
+294,Morgen,Saterweyte,Poland,true,true,true,"€705,56",Teva Pharmaceuticals USA Inc,year
+295,Spence,Seckington,Poland,true,false,true,"€448,36","NATURE REPUBLIC CO., LTD.",week
+296,Hatty,Willarton,,false,false,false,"€38,22",McKesson Contract Packaging,quarter
+297,Rollin,Hurd,,,,,,,month
+298,Karin,Northcott,Austria,true,true,false,"€735,73",Baxter Healthcare Corporation,
+299,Corny,Prinne,Poland,true,false,false,"€660,38",Gambro Renal Products,week
+300,Rossie,Vischi,Poland,true,true,true,"€201,05",DISCOUNT DRUG MART,year
+301,Elbertine,Gosswell,Poland,false,true,true,"€302,53","Silarx Pharmaceuticals,Inc",year
+302,Aksel,Siaskowski,Poland,true,true,true,"€584,16",REMEDYREPACK INC.,month
+303,Lyndsay,Goffe,,true,true,false,"€917,59","Shaoxing Fuqing Health Products Co., Ltd.",quarter
+304,Fredericka,Westraw,Czech Republic,,,,,,quarter
+305,Adamo,Henzley,,,,,,,month
+306,Alissa,Lawles,Czech Republic,,,,,,year
+307,Candis,Prince,Poland,true,false,true,"€5,97",sanofi-aventis U.S. LLC,week
+308,Oona,Sabathier,,true,true,false,"€265,62",Qualitest Pharmaceuticals,week
+309,Haily,Plaunch,,true,false,false,"€430,09",Teva Pharmaceuticals USA Inc,week
+310,Beatriz,Cowburn,Poland,true,true,true,"€517,78",Mission Hills S.A de C.V,quarter
+311,Louisa,Skase,Poland,false,true,true,"€678,01",Rebel Distributors Corp,week
+312,Delila,Bellefonte,,true,false,false,"€266,12",Apotheca Company,
+313,Mozes,Nowaczyk,Poland,true,true,false,"€772,54","Shopko Stores Operating Co., LLC",quarter
+314,Tonye,Jiroutek,,true,false,false,"€773,24",Universal Distribution Center LLC,year
+315,Grissel,Vyse,,false,true,true,"€99,41",Cardinal Health,month
+316,Nicole,Mallock,,false,false,true,"€96,99","Medimetriks Pharmaceuticals, Inc.",week
+317,Randi,Cotmore,,false,true,true,"€225,03","True Botanica, LLC",month
+318,Creighton,Larmuth,Germany,true,false,false,"€381,69","Diversey, Inc.",week
+319,Mose,Herries,Poland,false,true,false,"€51,86",Stallergenes S.A,quarter
+320,Jerrilee,Korpal,Czech Republic,false,true,true,"€822,64",Cardinal Health,quarter
+321,Sissy,Gaish,Poland,true,true,true,"€463,69","Talmocom Co., Ltd",month
+322,Bengt,McNeice,,,,,,,month
+323,Di,Kleehuhler,Czech Republic,false,false,true,"€797,86",DZA Brands LLC,quarter
+324,Sula,Rizziello,Czech Republic,true,true,true,"€743,91",Tri-Coastal Design Company Inc.,year
+325,Gustie,Hoppner,Poland,false,false,false,"€54,81",Cardinal Health,quarter
+326,Wadsworth,Portchmouth,Czech Republic,true,true,false,"€810,60","Nelco Laboratories, Inc.",quarter
+327,Gae,Kwietek,,false,true,true,"€676,71",Stat Rx USA,
+328,Ham,Hannan,Czech Republic,true,false,true,"€152,13",KANEBO COSMETICS INC,quarter
+329,Ursola,Juliano,Czech Republic,true,true,true,"€246,21",SHISEIDO AMERICA INC.,quarter
+330,Reilly,Tomenson,Poland,false,true,false,"€752,58",King Bio Inc.,quarter
+331,Roby,Dorkin,Czech Republic,true,true,true,"€198,14",A-S Medication Solutions LLC,quarter
+332,Cherianne,Branchett,,false,true,false,"€599,66",ORIGINS NATURAL RESOURCES INC.,month
+333,Phaedra,Sign,Czech Republic,true,false,false,"€700,61","Glenmark Generics Inc., USA",week
+334,Ned,Theuss,Poland,false,true,false,"€766,94","ProStrakan, Inc.",month
+335,Christen,Cosgrave,,,,,,,month
+336,Lazare,Haccleton,Czech Republic,true,true,false,"€568,35","Deseret Biologicals, Inc.",
+337,Gabbey,Beevis,Czech Republic,true,false,false,"€194,17",Target Corporation,month
+338,Druci,Veal,,false,true,false,"€111,45",Qualitest Pharmaceuticals,month
+339,Stace,Founds,,true,true,false,"€800,32",Neutrogena Corporation,month
+340,Wendel,Bethune,,,,,,,year
+341,Seymour,McGahy,,true,false,false,"€659,86",Guna spa,quarter
+342,Alena,McTaggart,,true,true,false,"€359,87","Kingdom Animalia, LLC DBA Hourglass Cosmetics",week
+343,Andris,Sweedy,Poland,false,false,false,"€773,04","KIMJEONGMOON ALOE CO., LTD.",week
+344,Franny,Vinton,,true,false,false,"€316,96",Cardinal Health,week
+345,Hayden,Semiras,Czech Republic,,,,,,week
+346,Lexie,Muirden,,true,true,false,"€35,54",Safeway,year
+347,Aluin,Iacoviello,Poland,true,false,false,"€149,81",Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC,month
+348,Frasquito,Gullane,Poland,false,false,true,"€45,62",Sage Products Inc.,quarter
+349,Michaela,Brymham,Czech Republic,true,false,true,"€52,84","Watson Laboratories, Inc.",year
+350,Blondie,Water,,false,true,true,"€794,83",White Manufacturing Inc. DBA Micro-West,year
+351,Luther,Kirvin,Poland,true,false,false,"€552,69",Unifirst First Aid Corporation,month
+352,Aldridge,Clemente,Poland,,,,,,week
+353,Roman,Partener,Poland,true,false,false,"€637,79",State of Florida DOH Central Pharmacy,month
+354,Afton,Springall,Poland,true,true,false,"€483,24",Natural Health Supply,month
+355,Gerome,Scoffins,Czech Republic,true,false,true,"€412,51","Aristos Phamaceuticals, Inc.",week
+356,Daisey,Illingworth,Czech Republic,false,true,false,"€907,87","Libertas Pharma, Inc.",year
+357,Evonne,Ring,Poland,true,false,false,"€339,30",REMEDYREPACK INC.,quarter
+358,Marge,Clardge,Germany,true,true,true,"€101,38",Pliva Inc.,quarter
+359,Bertram,Ludovici,Poland,true,true,true,"€37,56",Meijer Distribution Inc,week
+360,Erek,Durtnell,Poland,false,false,true,"€762,74","Nature's Innovation, Inc.",month
+361,Riannon,Pullman,Poland,true,true,false,"€300,59",Neutrogena Corporation,year
+362,Glenden,Meaton,Poland,false,true,false,"€516,81",Apotex Corp.,month
+363,Angelo,Hannen,Czech Republic,true,false,true,"€24,20",Seton Pharmaceuticals,quarter
+364,Harrison,Broodes,Poland,false,true,false,"€744,93",Parfums Christian Dior,week
+365,Amelita,Bissett,,true,false,false,"€56,43","Auto-Chlor System, LLC",
+366,Adam,Joannic,Czech Republic,true,true,true,"€922,34",Mylan Institutional Inc.,week
+367,Sheilah,Baskwell,Germany,true,false,true,"€187,94",GlaxoSmithKline LLC,week
+368,Kira,Gouldeby,Poland,false,true,false,"€666,89",The Dial Corporation,quarter
+369,Brittaney,Daymont,Czech Republic,,,,,,year
+370,Jasun,Boothebie,Germany,false,false,true,"€663,64","Upsher-Smith Laboratories, Inc.",year
+371,Milton,Kitteman,Czech Republic,false,false,false,"€302,15","Dolgencorp, LLC",month
+372,Binky,Ferenczy,Poland,,,,,,month
+373,Prent,Kinsell,Poland,false,true,true,"€836,37",Paramesh Banerji Life Sciences LLC,quarter
+374,Toni,Hyett,Poland,false,true,false,"€959,75","C.B. Fleet Company, Inc.",year
+375,Luisa,Thorius,Czech Republic,false,false,false,"€596,73",Carolina Medical Products Company,month
+376,Wynn,Sarge,Poland,false,true,false,"€253,91",REMEDYREPACK INC.,
+377,Matthus,Lilford,Poland,true,false,false,"€965,07","Novartis Consumer Health, Inc.",month
+378,Benjamen,Melland,Poland,false,false,false,"€333,82",TYA Pharmaceuticals,year
+379,Luke,Zorro,Poland,true,true,false,"€869,78","Antigen Laboratories, Inc.",quarter
+380,Mirelle,Gilmour,,true,false,true,"€296,20","PD-Rx Pharmaceuticals, Inc.",month
+381,Salaidh,Bazylets,Poland,true,false,false,"€574,18","ALK-Abello, Inc.",year
+382,Marris,Buckoke,Poland,false,false,false,"€604,89",DZA Brands LLC,week
+383,Carroll,Coules,Czech Republic,false,false,false,"€459,86",NARS COSMETICS,year
+384,Don,Stebbing,Poland,false,false,true,"€212,58",Cardinal Health,week
+385,Thomasin,Shelly,Poland,false,false,false,"€875,06",Teva Pharmaceuticals USA Inc,year
+386,Stesha,Bogace,,,,,,,quarter
+387,Cherlyn,Timcke,Poland,false,false,true,"€808,72",Topco Associates LLC,
+388,Viviana,Mullan,Czech Republic,true,true,false,"€32,56","Autumn Harp, Inc.",year
+389,Renaud,Castagnet,Poland,,,,,,week
+390,Nanette,Eltringham,Czech Republic,,,,,,month
+391,Eleen,Biesinger,,true,true,false,"€250,99","Shopko Stores Operating Co., LLC",week
+392,Henry,Cahill,,,,,,,week
+393,Hector,Woodburne,Poland,false,false,false,"€848,26",Heel Inc,week
+394,Arthur,Baiss,,true,true,false,"€326,59","NCS HealthCare of KY, Inc dba Vangard Labs",
+395,Guinevere,Moseley,,true,true,true,"€314,81","Energique, Inc.",week
+396,Dicky,Downham,Czech Republic,false,true,false,"€786,44","Roxane Laboratories, Inc",week
+397,Dani,Stoneman,,false,false,true,"€465,56","Roxane Laboratories, Inc.",quarter
+398,Clair,Flowers,Poland,false,false,false,"€293,18",HyVee Inc,month
+399,Harmony,Morad,Poland,false,true,true,"€973,12","Physicians Total Care, Inc.",quarter
+400,Gilligan,Stanett,Poland,true,true,false,"€529,80",Actavis Elizabeth LLC,week
+401,Piggy,Voak,Poland,false,true,true,"€833,77",American Health Packaging,month
+402,Trix,Reppaport,,true,false,true,"€785,02","Liberty Pharmaceuticals, Inc.",month
+403,Charity,Yellowlees,Poland,true,false,false,"€679,70",Carilion Materials Management,year
+404,Jemie,Jeffers,,false,false,true,"€805,84","OMG Medical Group, LLC",quarter
+405,Hyacintha,MacAughtrie,,,,,,,week
+406,Rossy,Cattle,Poland,true,true,false,"€770,47","Alcon Laboratories, Inc.",week
+407,Tait,Rossey,,true,false,true,"€879,41",Insight Pharmaceuticals,week
+408,Nerita,Caso,Poland,,,,,,month
+409,Gabrielle,Zammett,Czech Republic,,,,,,
+410,Ezekiel,Francescoccio,Poland,false,true,true,"€519,30",Fresenius Medical Care North America,
+411,Desmond,Erwin,Poland,false,false,true,"€248,95","Cosmetics Institute Technology Co., Ltd.",month
+412,Vanny,Tuffell,Czech Republic,false,false,true,"€577,72",Cardinal Health,week
+413,Cicily,Lehemann,Poland,true,false,false,"€385,40",REMEDYREPACK INC.,year
+414,Kalle,Nicklen,Poland,true,false,false,"€94,07",AbbVie Inc.,month
+415,Vin,Tuxell,Poland,false,true,true,"€257,42","Blenheim Pharmacal, Inc.",week
+416,Helli,Gresley,,,,,,,year
+417,Mufinella,Younge,,,,,,,quarter
+418,Mollee,Gordon-Giles,Poland,true,false,false,"€939,00",Neutrogena Corporation,quarter
+419,Kat,Jeannesson,,,,,,,week
+420,Nissa,Godbald,Czech Republic,false,true,true,"€425,18","PD-Rx Pharmaceuticals, Inc.",month
+421,Antonella,Mea,Poland,true,true,false,"€777,09","Aphena Pharma Solutions - Tennessee, LLC",year
+422,Brade,Cheak,Poland,false,true,false,"€540,87","Deseret Biologicals, Inc.",month
+423,Farica,Bothbie,,true,false,false,"€966,11",Keltman Pharmaceuticals Inc.,quarter
+424,Nessie,Dilliston,,true,true,true,"€946,29","APP Pharmaceuticals, LLC",week
+425,Shelbi,Standbrooke,,false,false,true,"€633,62",Novartis Pharmaceuticals Corporation,quarter
+426,Kiele,Farman,Czech Republic,false,true,false,"€74,93","Johnson & Johnson Consumer Products Company, Division of Johnson & Johnson Consumer Companies, Inc.",week
+427,Arv,Garroway,Germany,false,false,false,"€764,53","Lupin Pharmaceuticals, Inc.",week
+428,Victoria,Kennham,Poland,true,false,true,"€758,81","UDL Laboratories, Inc.",month
+429,Archer,Harce,,false,true,true,"€311,29","Aphena Pharma Solutions - Tennessee, LLC",week
+430,Sheila,Jollands,Poland,false,false,true,"€814,75","Alcon Laboratories, Inc.",quarter
+431,Anabel,Issit,Poland,true,false,true,"€76,63","PD-Rx Pharmaceuticals, Inc.",week
+432,Lorain,Thews,Germany,true,true,false,"€986,06","Fleming & Company, Pharmaceuticals",year
+433,Ebony,Kenryd,Poland,true,false,true,"€446,15","Johnson & Johnson Consumer Products Company, Division of Johnson & Johnson Consumer Companies, Inc.",month
+434,Ab,Philcock,Poland,true,false,true,"€170,91",International Ethical Labs,quarter
+435,Rodolph,Cuffley,Poland,true,false,true,"€537,55",Uriel Pharmacy Inc,quarter
+436,Wilek,Woolf,,true,false,false,"€549,98",Scott-Vincent Borba,week
+437,Creigh,Farrants,,false,false,false,"€567,88","Nelco Laboratories, Inc.",year
+438,Nerte,Lewsy,Poland,true,false,true,"€428,96",American Health Packaging,week
+439,Shepard,Lapham,Czech Republic,false,false,false,"€744,94",Publix Super Markets Inc,year
+440,Reggy,Ayllett,Poland,false,true,false,"€487,55","X-GEN Pharmaceuticals, Inc.",month
+441,Godfrey,Haker,Poland,true,false,true,"€863,29",Cardinal Health,quarter
+442,Madelena,D'Adamo,,true,true,true,"€453,21","Hi-Tech Pharmacal Co., Inc.",week
+443,Lauree,Prevost,,,,,,,year
+444,Andria,Liccardo,Czech Republic,false,true,true,"€273,38","Mutual Pharmaceutical Company, Inc.",month
+445,Web,Logsdail,,true,true,true,"€936,48",Neutrogena Corporation,quarter
+446,Claiborne,Esposi,Poland,,,,,,quarter
+447,Rowan,Brewett,Poland,false,false,false,"€541,05",Apotheca Company,year
+448,Nicoline,Piens,,true,false,false,"€674,24","Nelco Laboratories, Inc.",week
+449,Fallon,Lyes,Poland,,,,,,month
+450,Gareth,Arnaldy,Czech Republic,false,true,true,"€261,26","Nelco Laboratories, Inc.",year
+451,Sebastiano,Liepins,,false,false,true,"€972,60",My Import Inc,month
+452,Minni,Denison,,false,true,true,"€809,19",WOCKHARDT USA LLC,quarter
+453,Brigitta,Pavy,,true,false,false,"€605,75",Praxair Distribution Southeast LLC,month
+454,Letty,Ambrodi,,,,,,,quarter
+455,Crystie,Kermannes,Czech Republic,true,false,false,"€86,59",Rite Aid,year
+456,Jesse,Cheesley,Czech Republic,true,false,true,"€479,73","Par Pharmaceutical, Inc.",year
+457,Eolande,Mallinson,,false,true,false,"€687,93",Pharmacia and Upjohn Company,quarter
+458,Kara,Vaughton,Poland,true,false,true,"€698,45",Amerisource Bergen,week
+459,Fredericka,Livsey,,true,true,true,"€746,75",Kao Brands Company,quarter
+460,Jessey,Camelli,,false,true,true,"€83,29","Nelco Laboratories, Inc.",week
+461,Augusta,Roget,Germany,false,false,false,"€52,57",WOCKHARDT LIMITED,quarter
+462,Malvin,Huskinson,Germany,true,true,true,"€870,46","Allermed Laboratories, Inc.",month
+463,Dewie,Gazzard,Poland,false,true,false,"€743,58",Walgreen Company,month
+464,Myrna,Hugonet,Poland,true,true,false,"€312,39",HOMEOLAB USA INC,month
+465,Birk,Reggler,,false,false,false,"€492,85",Unit Dose Services,year
+466,Stephana,Tarbin,,,,,,,week
+467,Pietra,Gannon,Czech Republic,true,false,false,"€20,70","Deseret Biologicals, Inc.",quarter
+468,Lizbeth,Pimley,Germany,,,,,,quarter
+469,Eadmund,Guerra,,true,true,true,"€636,21",Janssen Cosmetics GmbH,month
+470,Sammy,Soars,Czech Republic,true,false,false,"€731,36",Global Pharmaceuticals,month
+471,Ella,Wemes,Poland,true,false,false,"€194,22",State of Florida DOH Central Pharmacy,week
+472,Garner,Andrelli,Czech Republic,true,false,true,"€567,12",Sanum-Kehlbeck GmbH & Co. KG,week
+473,Vivien,Rycroft,Czech Republic,true,true,true,"€33,43","BioZone Laboratories,Inc.",week
+474,Rosa,Reynoollds,Czech Republic,true,true,true,"€851,63",Mylan Pharmaceuticals Inc.,quarter
+475,Georgeta,Bolam,Czech Republic,true,true,true,"€197,09",Greenstone LLC,week
+476,Stephannie,Sigert,Poland,false,true,true,"€414,62",Aurobindo Pharma Limited,month
+477,Warden,Rushforth,Poland,true,false,true,"€163,83",KMart Corporation,month
+478,Tamra,Janiszewski,,false,true,true,"€357,10","Golden State Medical Supply, Inc.",quarter
+479,Dulcy,Pallent,,false,true,true,"€192,61","Physicians Total Care, Inc.",
+480,Luciano,Darte,Czech Republic,false,true,true,"€104,98",Bryant Ranch Prepack,quarter
+481,Alida,Danielsky,,false,true,false,"€962,63",REMEDYREPACK INC.,week
+482,Lian,Ugoletti,Poland,true,true,true,"€950,57",JCI INSTITUTE OF MEDICAL SCIENCE,week
+483,Madelaine,Shill,,false,true,true,"€901,10",Airgas National Welders,quarter
+484,Gayle,Kondratenko,Czech Republic,false,true,true,"€874,52",Hannaford Brothers Company,year
+485,Aubrey,Esby,,false,false,false,"€850,55",Enemeez Inc. DBA Summit Pharmaceuticals,week
+486,Jacenta,Teresse,Poland,,,,,,year
+487,Ernestus,Dwyer,Germany,true,false,false,"€802,95",REMEDYREPACK INC.,week
+488,Carver,Cadden,Poland,false,true,true,"€299,91",Bradley Fixtures Corporation,year
+489,Derrik,Gribben,Czech Republic,false,true,true,"€207,40",Neutrogena Corporation,year
+490,Garnette,Skein,,,,,,,quarter
+491,Cori,Ellicock,Poland,true,false,false,"€242,21","Carlsbad Technology, Inc.",month
+492,Glendon,Rustadge,Poland,false,false,false,"€224,24",Greenstone LLC,quarter
+493,Gal,Sparke,Poland,true,false,true,"€428,30","Go Smile, Inc.",week
+494,Margaux,McVicker,,false,false,true,"€760,82",Physicians Formula Inc,year
+495,Ethelin,Salman,Poland,false,false,true,"€472,26",Valu Merchandisers Company,year
+496,Hildegarde,Boldero,,true,false,false,"€926,62",Meijer Distribution Inc,month
+497,Anna-diane,Easton,Poland,false,true,false,"€912,65",Sandoz Inc,quarter
+498,Kathie,Rushmare,Poland,true,true,true,"€164,67",Ventura Corporation LTD.,week
+499,Maia,Dudeney,Poland,false,true,true,"€870,31",Rebel Distributors Corp,month
+500,Rafaelia,Antonikov,Czech Republic,,,,,,month
