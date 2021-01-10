@@ -1,0 +1,201 @@
+id,dostawca,hours,loc,price
+1,GPS,,,
+2,INpost,9,Poland,142.07
+3,DPD,15,Czech Republic,269.49
+4,INpost,18,Poland,370.56
+5,DPD,9,Poland,476.16
+6,INpost,19,Czech Republic,293.67
+7,DPD,18,Poland,201.62
+8,DPD,7,Czech Republic,435.61
+9,INpost,12,Czech Republic,77.28
+10,INpost,6,Poland,473.48
+11,INpost,2,Czech Republic,388.85
+12,DPD,3,Poland,390.18
+13,GPS,19,Germany,190.88
+14,INpost,13,Poland,267.82
+15,GPS,1,Czech Republic,150.5
+16,DPD,21,Poland,221.45
+17,DPD,20,Czech Republic,74.34
+18,GPS,5,Poland,339.72
+19,INpost,2,Czech Republic,377.6
+20,DPD,12,Czech Republic,414.19
+21,INpost,11,Czech Republic,60.67
+22,GPS,18,Poland,172.41
+23,DPD,10,Poland,456.76
+24,GPS,,,
+25,INpost,10,Czech Republic,73.33
+26,DPD,,,
+27,DPD,22,Czech Republic,228.19
+28,GPS,13,Czech Republic,234.76
+29,INpost,8,Poland,180.7
+30,INpost,16,Poland,374.45
+31,INpost,20,Poland,463.51
+32,DPD,7,Germany,126.48
+33,GPS,4,Poland,347.97
+34,INpost,8,Poland,147.21
+35,DPD,15,Poland,450.17
+36,GPS,4,Czech Republic,398.13
+37,DPD,24,Czech Republic,411.43
+38,DPD,3,Czech Republic,399.82
+39,INpost,10,Czech Republic,283.38
+40,INpost,17,Poland,392.12
+41,DPD,17,Poland,266.74
+42,DPD,2,Czech Republic,319.99
+43,DPD,23,Poland,436.77
+44,GPS,2,Poland,451.97
+45,GPS,5,Czech Republic,374.18
+46,DPD,21,Czech Republic,125.93
+47,INpost,,,
+48,DPD,4,Germany,186.47
+49,GPS,9,Poland,496.27
+50,DPD,19,Poland,88.31
+51,DPD,2,Poland,124.09
+52,DPD,18,Poland,268.97
+53,DPD,14,Czech Republic,105.52
+54,DPD,11,Czech Republic,103.64
+55,DPD,19,Poland,219.72
+56,INpost,12,Poland,431.0
+57,INpost,12,Czech Republic,140.7
+58,INpost,12,Poland,61.48
+59,DPD,4,Poland,379.09
+60,DPD,24,Poland,229.5
+61,INpost,21,Poland,393.94
+62,GPS,22,Czech Republic,390.64
+63,DPD,,,
+64,DPD,24,Poland,311.39
+65,INpost,22,Poland,227.73
+66,INpost,17,Czech Republic,450.36
+67,INpost,21,Czech Republic,331.26
+68,GPS,20,Czech Republic,488.67
+69,INpost,6,Poland,447.18
+70,GPS,3,Poland,249.41
+71,DPD,,,
+72,DPD,18,Poland,411.23
+73,INpost,15,Poland,190.42
+74,GPS,23,Poland,422.82
+75,INpost,1,Poland,85.15
+76,INpost,21,Czech Republic,209.35
+77,GPS,18,Poland,107.33
+78,GPS,19,Poland,358.26
+79,INpost,1,Poland,269.8
+80,GPS,16,Czech Republic,470.92
+81,DPD,20,Poland,277.78
+82,GPS,16,Czech Republic,285.35
+83,GPS,,,
+84,INpost,15,Czech Republic,151.04
+85,INpost,16,Poland,242.38
+86,INpost,4,Poland,408.36
+87,DPD,14,Poland,164.23
+88,GPS,,,
+89,DPD,20,Poland,336.8
+90,GPS,11,Czech Republic,147.91
+91,DPD,23,Poland,355.01
+92,DPD,4,Poland,437.49
+93,GPS,4,Poland,477.05
+94,INpost,24,Poland,135.07
+95,INpost,21,Poland,192.54
+96,INpost,15,Czech Republic,114.29
+97,INpost,23,Czech Republic,407.98
+98,DPD,15,Czech Republic,124.41
+99,DPD,13,Poland,317.56
+100,INpost,21,Poland,198.53
+101,GPS,6,Czech Republic,392.1
+102,INpost,11,Poland,422.56
+103,INpost,5,Czech Republic,297.47
+104,DPD,2,Czech Republic,286.38
+105,DPD,8,Poland,491.73
+106,INpost,9,Czech Republic,218.49
+107,DPD,13,Poland,221.88
+108,INpost,10,Poland,471.86
+109,INpost,10,Poland,86.13
+110,DPD,7,Poland,152.39
+111,INpost,13,Poland,391.62
+112,GPS,6,Czech Republic,219.94
+113,INpost,23,Poland,110.82
+114,INpost,21,Poland,342.63
+115,INpost,2,Poland,188.07
+116,DPD,23,Poland,170.69
+117,DPD,3,Poland,409.43
+118,GPS,10,Poland,324.83
+119,GPS,20,Czech Republic,428.88
+120,INpost,16,Czech Republic,127.52
+121,GPS,16,Czech Republic,368.78
+122,GPS,20,Czech Republic,394.1
+123,DPD,12,Poland,352.68
+124,GPS,14,Poland,497.28
+125,INpost,17,Czech Republic,353.93
+126,GPS,11,Poland,175.81
+127,INpost,23,Poland,272.31
+128,GPS,7,Poland,473.51
+129,DPD,11,Czech Republic,236.62
+130,GPS,8,Poland,325.52
+131,DPD,6,Czech Republic,379.02
+132,GPS,14,Poland,391.53
+133,INpost,,,
+134,DPD,7,Poland,499.58
+135,DPD,11,Poland,362.74
+136,INpost,21,Poland,245.73
+137,INpost,24,Poland,484.77
+138,INpost,15,Poland,292.15
+139,DPD,11,Czech Republic,189.16
+140,GPS,2,Czech Republic,338.83
+141,GPS,17,Austria,179.74
+142,GPS,6,Germany,163.77
+143,GPS,12,Poland,233.06
+144,INpost,17,Germany,137.7
+145,INpost,1,Czech Republic,67.79
+146,DPD,16,Poland,243.65
+147,DPD,19,Czech Republic,60.6
+148,DPD,8,Czech Republic,150.38
+149,GPS,24,Czech Republic,98.99
+150,DPD,16,Czech Republic,231.04
+151,DPD,15,Poland,88.29
+152,INpost,23,Poland,284.91
+153,GPS,23,Czech Republic,171.5
+154,INpost,9,Czech Republic,198.36
+155,INpost,15,Poland,188.46
+156,GPS,3,Germany,106.78
+157,DPD,7,Poland,133.45
+158,GPS,,,
+159,INpost,2,Poland,184.2
+160,DPD,15,Poland,157.62
+161,GPS,13,Poland,460.29
+162,INpost,4,Germany,219.57
+163,GPS,21,Poland,338.76
+164,INpost,4,Czech Republic,219.33
+165,INpost,17,Poland,236.35
+166,INpost,4,Poland,309.6
+167,GPS,6,Poland,477.09
+168,GPS,22,Poland,338.14
+169,GPS,18,Poland,491.22
+170,INpost,16,Czech Republic,297.96
+171,INpost,16,Poland,187.22
+172,GPS,9,Czech Republic,298.18
+173,DPD,20,Poland,469.13
+174,GPS,12,Czech Republic,283.09
+175,DPD,12,Czech Republic,328.06
+176,INpost,20,Czech Republic,268.22
+177,DPD,14,Czech Republic,481.85
+178,GPS,20,Czech Republic,179.36
+179,INpost,5,Czech Republic,97.36
+180,DPD,4,Poland,219.49
+181,INpost,,,
+182,DPD,24,Poland,370.73
+183,GPS,11,Poland,314.23
+184,GPS,19,Poland,221.82
+185,DPD,24,Poland,229.61
+186,INpost,12,Poland,396.61
+187,GPS,14,Czech Republic,294.56
+188,DPD,17,Poland,111.13
+189,DPD,20,Poland,219.22
+190,GPS,19,Poland,61.16
+191,INpost,8,Czech Republic,362.73
+192,INpost,3,Poland,314.78
+193,GPS,23,Czech Republic,349.03
+194,GPS,3,Poland,463.67
+195,INpost,21,Czech Republic,92.92
+196,INpost,5,Poland,134.52
+197,GPS,24,Czech Republic,231.79
+198,DPD,8,Poland,113.53
+199,GPS,13,Poland,65.49
+200,INpost,9,Poland,299.8
